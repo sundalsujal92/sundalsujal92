@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hello there! I'm [Sujal Kumar], a passionate 4th-semester B.Tech student majoring in Computer Science and Engineering. My journey in the world of technology has been exhilarating, filled with a thirst for knowledge and a drive to create meaningful solutions.
+👋 Hello there! I'm [Sujal Kumar], a passionate 5%th-semester B.Tech student majoring in Computer Science and Engineering. My journey in the world of technology has been exhilarating, filled with a thirst for knowledge and a drive to create meaningful solutions.
 
 ## 🚀 Quick Overview
 
