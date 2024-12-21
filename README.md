@@ -1,39 +1,47 @@
-# About Me
+# 👋 Hi, I'm Sujal Kumar
 
-👋 Hello there! I'm [Sujal Kumar], a passionate 5th-semester B.Tech student majoring in Computer Science and Engineering. My journey in the world of technology has been exhilarating, filled with a thirst for knowledge and a drive to create meaningful solutions.
+I'm a passionate Computer Science and Engineering student from India, eager to explore the world of technology and innovation.
 
-## 🚀 Quick Overview
+- 🌱 I’m currently working on my project [JobMarket](https://github.com/sundalsujal92/JobMarket)
+- 🔭 I’m currently learning AI & Machine Learning
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about anything [here](mailto:your.email@example.com)
 
-- 🔭 I'm currently exploring various domains within Computer Science, with a keen interest in software development, data structures, and algorithms.
-- 🌱 I'm always learning and experimenting with new technologies to stay ahead in the ever-evolving tech landscape.
-- 👯 I enjoy collaborating with like-minded individuals to work on exciting projects that challenge and enhance my skills.
-- 💡 I believe in the power of technology to make a positive impact on the world, and I'm determined to contribute to that change.
+### Languages and Tools:
 
-## 💻 Tech Stack
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
 
-- **Languages:** C++, Python, Java
-- **Web Development:** HTML, CSS, JavaScript, React
-- **Database:** MySQL, MongoDB
-- **Tools & Technologies:** Git, VS Code, Linux
+> **Note:** Top languages do not indicate my skill level or something like that; it's a GitHub metric of which languages I have the most code on GitHub.
 
-## 🛠️ Projects
+---
 
-- **[Twitter Clone](https://github.com/sundalsujal92/Twitter-Clone):** Brief description of the project, highlighting your role and the technologies used.
-- **[Student ChatBot](https://github.com/sundalsujal92/Student-ChatBot):** Another project showcasing your skills and accomplishments.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sundalsujal92&show_icons=true&theme=radical" alt="Sujal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundalsujal92&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-## 🌐 Connect with Me
+---
 
-- [LinkedIn](https://www.linkedin.com/in/sujal-kumar-4ab153227/)
-- [Twitter](https://twitter.com/sujalkumar_3815)
+### Featured Projects
 
-## 📚 Education
+- [JobMarket](https://github.com/sundalsujal92/JobMarket) - Comprehensive job search platform
+- [Language Translator](https://github.com/sundalsujal92/Language-Translator) - Multi-language translation app
+- [Twitter Clone](https://github.com/sundalsujal92/Twitter-Clone) - Social media platform replica
+- [Student ChatBot](https://github.com/sundalsujal92/Student-ChatBot) - AI-powered educational assistant
 
-- **Bachelor of Technology (B.Tech) in Computer Science and Engineering**
-  - [Chandigarh Engineering College,Landran ], [Mohali,Punjab]
-  - Expected Graduation: [july, 2026]
+---
 
-## 🎯 Goals
+### Connect with Me
 
-My goal is to continue learning and growing as a software engineer, contributing to open-source projects, and eventually making a positive impact in the tech industry. If you share similar interests or have exciting opportunities, feel free to connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sujal-kumar-4ab153227/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/sujalkumar_3815)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail)](mailto:your.email@example.com)
 
-Let's code the future together! 🚀
+---
+
+**"Innovation distinguishes between a leader and a follower."** - Steve Jobs
